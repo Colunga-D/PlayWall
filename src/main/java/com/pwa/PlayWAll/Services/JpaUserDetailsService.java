@@ -1,4 +1,4 @@
-package com.pwa.PlayWAll.Models;
+package com.pwa.PlayWAll.Services;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
