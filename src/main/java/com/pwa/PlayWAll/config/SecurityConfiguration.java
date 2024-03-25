@@ -1,4 +1,3 @@
-// package org.pwa.dreamfusion.config;
 package com.pwa.PlayWAll.config;
 
 import java.util.Arrays;
@@ -16,7 +15,7 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
-// import org.teamraccoon.dreamfusion.security.JpaUserDetailsService;
+
 
 @Configuration
 @EnableWebSecurity
